@@ -1,0 +1,2 @@
+https://jogo-numero-secreto-rose-xi.vercel.app/
+https://github.com/Flavitchan/numero-secreto-js
